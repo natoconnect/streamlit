@@ -1,6 +1,6 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import datetime
+streamlit
+pandas
+numpy
+datetime
 
 DATA_URL = 'upload_DJIA_table.csv'
