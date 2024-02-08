@@ -2,5 +2,3 @@ streamlit
 pandas
 numpy
 datetime
-
-DATA_URL = 'upload_DJIA_table.csv'
