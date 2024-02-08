@@ -3,8 +3,6 @@ pandas
 numpy
 datetime
 plotly.express
-make_subplots
 plotly.graph_objects
-WordCloud 
-STOPWORDS
-matplotlib.pyplot
+wordcloud
+matplotlib
