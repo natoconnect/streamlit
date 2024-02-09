@@ -13,9 +13,8 @@
 # **- rate (nper, pmt, pv, fv[, when, guess, tol, …])**  *Compute the rate of interest per period
 # 
 # https://numpy.org/numpy-financial/latest/
-
-# In[ ]:
-
+import os
+os.system('pip install --upgrade pip')
 
 from IPython.display import clear_output
 from IPython.display import display
