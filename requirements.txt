@@ -6,3 +6,8 @@ plotly.express
 plotly
 wordcloud
 matplotlib
+Python
+numpy_financial
+ipywidgets
+time
+jupyter_ui_poll
