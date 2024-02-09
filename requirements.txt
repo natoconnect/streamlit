@@ -6,7 +6,7 @@ plotly.express
 plotly
 wordcloud
 matplotlib
-Python
+ipython
 numpy_financial
 ipywidgets
 time
